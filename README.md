@@ -68,9 +68,10 @@ Annotated Output + Extracted Data
 
 ## Installation
 
-
+```bash
 git clone https://github.com/saketpol10/Vehicle-Identification-and-Helmet-Compliance-Detection-System.git
 cd Vehicle-Identification-and-Helmet-Compliance-Detection-System
+```
 1. Create a virtual environment
 python -m venv .venv
 2. Activate the environment
