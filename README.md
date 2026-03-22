@@ -2,7 +2,7 @@
 
 ### Real-Time Helmet Compliance and Vehicle Detection System
 
-HelmGuard is a real-time computer vision system designed to enhance road safety by detecting helmet compliance among motorcyclists and extracting vehicle registration details using license plate recognition. The system leverages deep learning-based object detection and OCR to process live or recorded video streams.
+VisionGuard is a real-time computer vision system designed to enhance road safety by detecting helmet compliance among motorcyclists and extracting vehicle registration details using license plate recognition. The system leverages deep learning-based object detection and OCR to process live or recorded video streams.
 
 ---
 
