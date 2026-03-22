@@ -52,7 +52,6 @@ Annotated Output + Extracted Data
 ## Project Structure
 
 ```
-.
 ├── models/                  # YOLO models and configs  
 ├── number_plates/           # Number plate detection modules  
 ├── riders_pictures/         # Sample dataset/images  
