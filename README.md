@@ -60,7 +60,6 @@ Annotated Output + Extracted Data
 ├── main.py                  # Entry point for inference  
 ├── my_functions.py          # Core pipeline functions  
 ├── requirements.txt         # Dependencies  
-├── output.avi               # Sample output video  
 └── *.pt / *.pth             # Trained model weights  
 ```
 
