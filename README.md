@@ -6,13 +6,13 @@ HelmGuard is a real-time computer vision system designed to enhance road safety 
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project implements a **multi-stage computer vision pipeline** that combines object detection and text recognition to monitor traffic compliance. It identifies vehicles, detects whether riders are wearing helmets, and extracts license plate information from video feeds.
 
 ---
 
-## 🚀 Features
+## Features
 
 * Real-time detection of **vehicles and helmet compliance**
 * Automatic **license plate extraction using OCR**
@@ -22,7 +22,7 @@ This project implements a **multi-stage computer vision pipeline** that combines
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ```
 Input Video Stream
@@ -39,7 +39,7 @@ Annotated Output + Extracted Data
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python** – Core programming language
 * **YOLOv5** – Object detection (vehicles, helmets, plates)
@@ -49,7 +49,7 @@ Annotated Output + Extracted Data
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
@@ -66,7 +66,7 @@ Annotated Output + Extracted Data
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/saketpol10/Vehicle-Identification-and-Helmet-Compliance-Detection-System.git
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the main pipeline:
 
@@ -93,7 +93,7 @@ You can modify the input source in `main.py` to:
 
 ---
 
-## 📊 Performance
+## Performance
 
 * Supports **low-latency per-frame processing** for near real-time inference
 * Capable of processing continuous video streams efficiently
@@ -101,7 +101,7 @@ You can modify the input source in `main.py` to:
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 
 * Annotated video output with:
 
@@ -113,22 +113,13 @@ You can modify the input source in `main.py` to:
 
 ---
 
-## 🔧 Future Improvements
-
-* Integration with **object tracking (DeepSORT)**
-* Deployment on **edge devices (Jetson Nano / Raspberry Pi)**
-* Cloud-based monitoring dashboard
-* Improved OCR accuracy for low-resolution plates
-
----
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
 
