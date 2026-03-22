@@ -76,7 +76,8 @@ cd Vehicle-Identification-and-Helmet-Compliance-Detection-System
 ```bash
 python -m venv .venv
 ```
-3. Activate the environment
+2. Activate the environment
+   
 On macOS/Linux:
 ```bash
 source .venv/bin/activate
@@ -85,7 +86,7 @@ On Windows:
 ```bash
 .venv\Scripts\activate
 ```
-4. Install dependencies
+3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
