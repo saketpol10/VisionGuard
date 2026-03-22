@@ -73,14 +73,22 @@ git clone https://github.com/saketpol10/Vehicle-Identification-and-Helmet-Compli
 cd Vehicle-Identification-and-Helmet-Compliance-Detection-System
 ```
 1. Create a virtual environment
+```bash
 python -m venv .venv
-2. Activate the environment
+```
+3. Activate the environment
 On macOS/Linux:
+```bash
 source .venv/bin/activate
+```
 On Windows:
+```bash
 .venv\Scripts\activate
-3. Install dependencies
+```
+4. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 ---
 
 ## Usage
