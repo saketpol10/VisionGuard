@@ -1,4 +1,4 @@
-# HelmGuard 🚦
+# VisionGuard 🚦
 
 ### Real-Time Helmet Compliance and Vehicle Detection System
 
