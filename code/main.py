@@ -1,6 +1,6 @@
 from my_functions import *
 
-source = 'test_video.MOV'
+source = 'test_video.MOV'  #Use any video
 
 save_video = True  # Set to True if you want to save video (when video is the source)
 show_video = True  # Set to True if you want to display video
@@ -12,7 +12,7 @@ head_classification_threshold = 3.0
 
 # Saving video as output
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('output.avi', fourcc, 20.0, frame_size)
+out = cv2.VideoWriter('output.avi', fourcc, 20.0, frame_size)   
 
 cap = cv2.VideoCapture(source)
 while(cap.isOpened()):
